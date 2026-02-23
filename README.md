@@ -1,8 +1,8 @@
 # My GitHub Profile
 
-Hello, world! This is my GitHub profile with organized projects by different categories.
+Hello, world! This is my GitHub profile!
 
-## 🗂️ Directions
+## 🗂️ Directions (projects by different categories)
 
 | Direction       | Description                          | Link |
 |----------------|----------------------------------------|------|
