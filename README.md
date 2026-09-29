@@ -2,9 +2,4 @@
 
 Hello, world! This is my GitHub profile!
 
-| Direction       | Description                          | Link |
-|----------------|----------------------------------------|------|
-| Contribution | Open-source contributions            | [README](https://github.com/this-N1ckname/contribution) |
-| Uni   | University projects                    | [README](https://github.com/this-N1ckname/uni) |
-| Fun          | Fun projects   | [README](https://github.com/this-N1ckname/fun) |
-| Other        | Miscellaneous projects               | [README](https://github.com/this-N1ckname/other-projects) |
+I enjoy solving challenging problems, balancing academic knowledge with hands-on development experience.
